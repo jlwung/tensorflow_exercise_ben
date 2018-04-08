@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-# In[2]:
+# In[2]: 
 
 
 x_data = np.linspace(-0.5, 0.5, 200)[:, np.newaxis]
